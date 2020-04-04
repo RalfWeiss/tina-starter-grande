@@ -22,7 +22,7 @@
     "underline": true
   },
   "hero": {
-    "image": "../images/healer1.jpg",
+    "image": "../images/cafe.jpg",
     "large": false,
     "overlay": true,
     "overlap": "8rem",
